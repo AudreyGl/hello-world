@@ -1,2 +1,3 @@
 # hello-world
-First tutorial
+Have a beautiful day !
+
